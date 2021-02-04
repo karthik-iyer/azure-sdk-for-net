@@ -64,7 +64,6 @@ ipch/
 *.vsp
 
 # VS Code
-.vscode/
 
 # Code analysis
 *.CodeAnalysisLog.xml
@@ -167,3 +166,4 @@ msbuild.binlog
 BenchmarkDotNet.Artifacts
 
 artifacts
+config.bat
